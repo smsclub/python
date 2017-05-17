@@ -6,7 +6,7 @@ from StringIO import StringIO
 """
     @author SMS CLUB 
     @url www.smsclub.mobi
-    @copyright 2016
+    @copyright 2017
 """
 
 """
@@ -14,7 +14,7 @@ from StringIO import StringIO
 """
 login = 'login'  #string User ID (phone number)
 password = 'pass'  #string Password
-alphaName = 'SMS CLUB'    #string, sender id (alpha-name) (as long as your alpha-name is not spelled out, it is necessary to use it)
+alphaName = 'gsm1'    #string, sender id (alpha-name) (as long as your alpha-name is not spelled out, it is necessary to use it)
 abonent = '380675126767;380997777662'
 text = 'Sending SMS from SMSCLUB via python'
         
