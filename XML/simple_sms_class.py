@@ -20,5 +20,5 @@ class SMS:
         return response
 
 
-sms_client = SMS('38269926164', '1K_lMY9V4wVa1ag', 'InetShop')
-sms_client.send_sms('38269926164', 'Ok, i will by beer for you')
+sms_client = SMS('XXXXXXXXXX', 'XXXXXXXX', 'InetShop')
+sms_client.send_sms('XXXXXXXXX', 'Ok, i will by beer for you')
